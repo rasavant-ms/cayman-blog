@@ -11,7 +11,6 @@ google_analytics:
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-theme: jekyll-theme-cayman
 theme: jekyll-theme-cayman-blog
 
 # social
